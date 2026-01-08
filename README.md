@@ -8,7 +8,7 @@ This repository serves as:
 - A practical showcase of real-world problem solving
 - A reference for system design, modeling choices, and MLOps practices
 
-The focus is on **how AI is applied in practice**, rather than purely academic or toy examples. I demonstrate the concepts through toy datasets of course. :wink:
+The focus is on **how AI is applied in practice**, rather than purely academic or toy examples. I demonstrate the concepts through open-source datasets of course. :wink:
 
 ## What You’ll Find Here
 Projects in this repository may include:
