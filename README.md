@@ -45,7 +45,7 @@ Each project lives in its own folder and includes a dedicated README.
 ### ⚙️ MLOps & Experimentation
 - **Model Orchestration with MLflow & Hyperparameter Optimization using Optuna**
   _Experiment tracking, model versioning, and automated hyperparameter tuning._
-  [`mlflow-optuna-orchestration/`](./mlflow-optuna-orchestration)
+  [`mlflow-optuna-orchestration/`](./MLOps/module_01/mlflow-optuna-orchestration)
 
 ---
 

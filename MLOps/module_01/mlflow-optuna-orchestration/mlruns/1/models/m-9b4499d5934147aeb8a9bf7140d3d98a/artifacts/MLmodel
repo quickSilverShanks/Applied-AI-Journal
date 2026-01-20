@@ -1,0 +1,33 @@
+artifact_path: file:///c:/Users/shash/Desktop/Valinor/GitHub/Applied-AI-Journal/MLOps/module_01/mlflow-optuna-orchestration/mlruns/1/models/m-9b4499d5934147aeb8a9bf7140d3d98a/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.19
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+is_signature_from_type_hint: false
+mlflow_version: 3.8.1
+model_id: m-9b4499d5934147aeb8a9bf7140d3d98a
+model_size_bytes: 615671
+model_uuid: m-9b4499d5934147aeb8a9bf7140d3d98a
+prompts: null
+run_id: f7501b3bb0a74fc495d4802e6693b581
+signature:
+  inputs: '[{"type": "string", "name": "gender", "required": true}, {"type": "double",
+    "name": "age", "required": true}, {"type": "long", "name": "hypertension", "required":
+    true}, {"type": "long", "name": "heart_disease", "required": true}, {"type": "string",
+    "name": "smoking_history", "required": true}, {"type": "double", "name": "bmi",
+    "required": true}, {"type": "double", "name": "HbA1c_level", "required": true},
+    {"type": "long", "name": "blood_glucose_level", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-01-20 07:20:35.513949'
